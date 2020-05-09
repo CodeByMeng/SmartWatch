@@ -4,3 +4,8 @@
 ใช้ Xampp
 สอบถามเพิ่มเติม
 https://www.facebook.com/Jigsaw.worawin
+
+------------ทดลองใช้------------------\
+User: demo | User: admin\
+Pass: demo | Pass: admin\
+http://worawin.tk/\
